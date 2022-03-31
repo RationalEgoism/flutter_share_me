@@ -30,5 +30,3 @@ flutter:
       android:
         package: zhuoyuan.li.fluttershareme
         pluginClass: FlutterShareMePlugin
-      ios:
-        pluginClass: SwiftFlutterShareMePlugin
